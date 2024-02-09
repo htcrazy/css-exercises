@@ -1,0 +1,20 @@
+/* poop */
+
+p {
+    background-color: #ff33ff;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+.giant{
+    background-color: #adff2f;
+    font-weight: bold;
+}
+
+#second {
+    font-size: 36px;
+    color: #0000ff;
+}
